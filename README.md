@@ -16,7 +16,7 @@ A practical solution spans multiple topics
 
 * Data aggregation / cleaning - how address data and geographic data from multiple sources can be de-duplicated, structured and linked together
 
-* Indexing - implementing search indexing "lite" for python / pandas, developing custom tokenisation / stop words for Hong Kong address data
+* [Indexing](https://github.com/plagiarisedwords/Hong-Kong-Location-Data/wiki/Indexing) - implementing search indexing "lite" for python / pandas, developing custom tokenisation / stop words for Hong Kong address data
 
 * Geocoding - finding the geographic co-ordinates for a given address, conversion between different co-ordinate systems and reverse geocoding
 
